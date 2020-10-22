@@ -39,6 +39,7 @@
             android:text="@string/scores"
             android:textSize="18sp"
             android:textStyle="bold"
+            android:autoSizeTextType="uniform"
             app:layout_constraintBottom_toTopOf="@id/guidelineH03"
             app:layout_constraintEnd_toStartOf="@id/guidelineV04"
             app:layout_constraintStart_toStartOf="@id/guidelineV03"
